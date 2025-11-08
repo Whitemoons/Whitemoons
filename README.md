@@ -1,4 +1,4 @@
-# Whitemoons
+# Sanghyun Chung
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=Whitemoons&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width=56% />
 </a>
